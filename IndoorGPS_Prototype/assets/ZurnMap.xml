@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <MapInfo>
+		<Title>Zurn Indoor Map</Title>
+		<ID>1001</ID>
+		<Description>Indoor map for Zurn building's third floor</Description>
+		<Version>1.0</Version>
+		<NumberOfObjects>5</NumberOfObjects>
+	</MapInfo>
+	<Object>
+		<ID>1</ID>
+		<Name>Room 340</Name>
+		<StartPosition>30,430</StartPosition>
+		<Width>130</Width>
+		<Height>130</Height>
+	</Object>
+	<Object>
+		<ID>2</ID>
+		<Name>Room 343</Name>
+		<StartPosition>340,300</StartPosition>
+		<Width>130</Width>
+		<Height>130</Height>
+	</Object>	
+	<Object>
+		<ID>3</ID>
+		<Name>Room 344</Name>
+		<StartPosition>30,300</StartPosition>
+		<Width>130</Width>
+		<Height>130</Height>
+	</Object>	
+	<Object>
+		<ID>4</ID>
+		<Name>Hallway1</Name>
+		<StartPosition>160,170</StartPosition>
+		<Width>80</Width>
+		<Height>440</Height>
+	</Object>
+	<Object>
+		<ID>5</ID>
+		<Name>Hallway</Name>
+		<StartPosition>240,380</StartPosition>
+		<Width>50</Width>
+		<Height>100</Height>
+	</Object>	
+</resources>
+
+

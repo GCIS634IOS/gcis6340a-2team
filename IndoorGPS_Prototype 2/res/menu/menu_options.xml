@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/fmNearest"
+        android:checkable="true"
+        android:checked="true"   
+        android:title="@string/FM_nearest_title"/>
+    <item
+        android:id="@+id/fmExact"
+        android:checkable="true"
+        android:checked="false"   
+        android:title="@string/FM_exact_title"/>
+    <item
+        android:id="@+id/about"
+        android:title="@string/about_title"/>
+
+        android:showAsAction="ifRoom"
+</menu>

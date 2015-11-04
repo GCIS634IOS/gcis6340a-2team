@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <Room name="344">
+        <APName name="VD2HY">
+            <min></min>
+            <max></max>
+        </APName>
+        <APName name="MK8">
+            <min></min>
+            <max></max>
+        </APName>
+        <APName name="GUWireless">
+            <min></min>
+            <max></max>
+        </APName>
+    </Room>
+</resources>
